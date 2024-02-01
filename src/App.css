@@ -1,0 +1,38 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  
+  width: 100%;
+}
+
+h2 {
+  color: #333;
+}
+
+.weathertop-container {
+  width: 100%;
+ 
+  
+}
+
+label {
+  margin-right: 10px;
+}
+
+button {
+  cursor: pointer;
+}
+/* Media Query for responsiveness */
+/* @media screen and (max-width: 100%) {
+  .weathertop-container {
+    width: 80%;
+  }
+} */
+
+div {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width:100%;
+}
